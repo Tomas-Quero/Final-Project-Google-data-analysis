@@ -74,8 +74,8 @@ The project follows these steps:
    - [Archivos csv](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 2. **`/notebooks`**:
-   - **`clean_data.ipynb`**: Jupyter notebook for data cleaning. It corrects date formats, handles NaN values, and prepares the data for MySQL loading.
-   - **`visualizations.ipynb`**: Jupyter notebook for generating the visualizations used to demonstrate differences in bike usage.
+   - **`clean.ipynb`**: Jupyter notebook for data cleaning. It corrects date formats, handles NaN values, and prepares the data for MySQL loading.
+   - **`chart.ipynb`**: Jupyter notebook for generating the visualizations used to demonstrate differences in bike usage.
 
 3. **`requirements.txt`**:
    - Lists all the dependencies needed to run the Python scripts, including:
